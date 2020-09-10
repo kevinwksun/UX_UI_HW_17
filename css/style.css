@@ -1,0 +1,208 @@
+body{
+    font-family: 'Roboto', sans-serif;}
+
+a:hover{
+    color: #FFB800;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+
+/* Header Styles */
+nav {
+    height: 50px;
+    background-color: white;
+    padding-left:150px;
+    padding-right:150px;
+    padding-top:50px;
+}
+
+.inline-block{
+    display: inline-block;
+    padding: 15px;
+}
+
+.block_element{
+    font-size: 20px;
+    font-weight: 410;
+    float: right;
+    text-align: center;
+}
+
+#logo{
+    font-size: 30px;
+    font-weight: 600;
+    float: left;
+    padding: 15px;
+}
+
+
+/* Hero Image section */
+
+.lleft{
+    height: 550px;
+    float: left;
+    background-color: transparent;
+    width: 55%;
+    text-align: left;
+  }
+  
+.rright{
+    height: 550px;
+    float: left;
+    background-color: transparent;
+    width: 45%;
+    text-align: center;
+  }
+
+.HeroContent{
+    width: 550px;
+    text-align: left;
+    margin-left: auto;
+}
+
+.Hi{
+    font-size: 64px;
+    font-display: bold;
+}
+
+.Blurb{
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.hero_Image{
+    width:335px;
+    height:472px;
+    display: block;
+    margin-top: -450px;
+    margin-left: 50px;
+    outline: 1px solid rgb(187, 187, 187);
+}
+
+.background{
+    max-width:335px;
+    max-height:472px;
+    display: block;
+    margin-left: 25px;
+}
+
+.SelectedWorks{
+    padding-left:150px;
+    font-size: 30px;
+    font-weight: 400;
+    opacity: 0.6;
+}
+
+hr.solid{
+    border-top: 50px solid transparent;
+}
+
+/* Work Section */
+.button{
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+    width: 100px;
+    text-align: center;
+    color:black;
+}
+
+h3{
+    font-size:36px;
+    font-weight: 400;
+    margin: 0;
+}
+
+h4{
+    font-size:30px;
+    font-weight: 100;
+    margin: 0;
+}
+
+.Project_Container{
+    height: 580px;
+    background-color: transparent;
+    width: 100%;
+  }
+
+.LProjectInfo{
+    text-align: left;
+    height: 580px;
+    width: 325px;
+    margin-left: 150px;
+    transform: translateY(30%);
+}
+
+.RProjectPicture{
+    height: 580px;
+    float: right;
+    background-color: transparent;
+    margin-top: -580px;
+    margin-right: 150px;
+}
+
+.LProjectPicture{
+    height: 580px;
+    float: left;
+    background-color: transparent;
+    margin-left: 150px;
+}
+
+.RProject_Container{
+    height: 580px;
+    background-color: transparent;
+    width: 100%;
+}
+
+.RProjectInfo{
+    text-align: left;
+    height: 580px;
+    width: 325px;
+    margin-left: 1050px;
+    transform: translateY(30%);
+}
+
+img{
+    max-width:100%;
+    max-height:100%;
+    display: block;
+}
+
+.ProjectPicture{
+    height: 580px;
+    width: 828px;
+}
+
+
+/* Work Section */
+#footerTagline{
+    font-size: 20px;
+}
+
+#copyright{
+    font-size: 20px;
+    text-align: center;
+}
+
+footer{
+    background-color:#fafafa;
+    border-top: 1px solid rgb(224, 224, 224);
+    padding-left: 150px;
+    padding-right: 150px;
+    height: 150px;
+}
+
+.inline-block2{
+    display: inline-block;
+    padding-left: 2.5px;
+    padding-right: 2.5px
+}
+
+.block_element2{
+    height: 38px;
+    float: left;
+    text-align: center;
+}
